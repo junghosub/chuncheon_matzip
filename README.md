@@ -24,7 +24,7 @@
 </p>
 
 ### 설명
-0. [춘천 골목 맛집 보기](https://junghosub.github.io/chucheon_matzip/)
+0. [춘천 골목 맛집 보기](https://junghosub.github.io/chuncheon_matzip/)
 1. 데이터는 [공공 데이터 포털](https://www.data.go.kr/data/15083033/fileData.do)에서 제공하는 소상공인 상가 정보 데이터를 활용했습니다. 누락되거나 신규 오픈한 가게들은 따로 추가하였습니다. 총 125개의 맛집을 담았습니다.
 2. Python의 folium 라이브러리를 통해 맵을 구현하였으며 해당 매장을 클릭하면 네이버 플레이스에 등록된 사진과 평점, 리뷰 수 등을 쉽게 볼 수 있도록 해놓았습니다.
 3. 왜 네이버 플레이스?
