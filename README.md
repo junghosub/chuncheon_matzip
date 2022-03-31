@@ -18,6 +18,11 @@
 ![test](https://user-images.githubusercontent.com/72376781/157675006-219eccfb-a72d-4579-9341-272f3cd71264.png)
 ![test2](https://user-images.githubusercontent.com/72376781/157675023-a56e6453-59c6-42e7-af80-45efaacc1605.png)
 
+인터뷰를 시행한 결과 수도권과 달리 춘천 지역 같은 경우는 잘 정리된 웹이나 앱이 없었고, 있다하더라도 부족한 사용 경험이 많았다는 것을 알게 되었습니다. 결과적으로 해당 서비스에 대한 니즈가 충분하다고 판단하여 아래와 같이 프로젝트 로드맵을 생각해보았습니다.
+
+## 프로젝트 로드맵
+![슬라이드1](https://user-images.githubusercontent.com/72376781/161027792-6c1018dd-c219-49b8-965f-0986cd40f812.PNG)
+
 ## 결과물
 <p align = 'left'>
 <img src = "https://user-images.githubusercontent.com/72376781/157675165-9ef0bda2-0ab1-41f1-981a-96fb20ec866e.gif" width = "350">
